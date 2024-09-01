@@ -1,4 +1,3 @@
-#define NUM_READ 10
 #define K 0.1
 
 float expRunningAverage(float newVal);
